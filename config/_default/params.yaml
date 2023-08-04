@@ -63,7 +63,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: 'Mr Robot'
+    theme_light: strawberry
     theme_dark: dracula
   math:
     enable: false
