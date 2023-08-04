@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Benson Ndithia Kamau
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Benson
+last_name: Kamau
 
 # Status emoji
 status:
