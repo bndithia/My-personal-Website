@@ -18,30 +18,30 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Freiburg-Albert-Ludwigs-Universität
+    url: https://uni-freiburg.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health systems strengthening
+  - Health economics
+  - Global Urban Health
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Global Urban Health
+      institution: University of Freiburg
+      year: 2023/2024
+    - course: Paramedic Training
+      institution: DRK Landesschule Baden-Wuerttemberg, Ravensburg
+      year: 2022
+    - course: BA in International Relations and Diplomacy
+      institution: The Technical University of Kenya
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bndithia
     label: Follow me on Twitter
     display:
       header: true
@@ -62,7 +62,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bndithia
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Benson Kamau is an International Relations professional with an interest in Global Health. He currently works as a paramedic with the German Red Cross in southwestern Germany. He is also a student of Global Urban Health at the University of Freiburg. He has a passion for human rights and humanitarian law causes and is keen on sustainable financing models for healthcare systems within low-and middle-income countries. His work cuts across human rights, youth leadership in Kenya,social work, and emergency medical services.
 {style="text-align: justify;"}
