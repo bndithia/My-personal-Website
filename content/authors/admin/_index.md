@@ -28,7 +28,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Health systems strengthening
   - Health economics
-  - Global Urban Health
+  - Health Diplomacy
 
 # Education to show in About widget
 education:
