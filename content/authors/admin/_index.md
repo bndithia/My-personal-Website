@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benson Ndithia Kamau
+title: Benson Kamau
 
 # Full name (for SEO)
 first_name: Benson
@@ -8,7 +8,7 @@ last_name: Kamau
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🩺
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,13 +22,15 @@ organizations:
     url: https://uni-freiburg.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am passionate about improving access to healthcare for all and improving health outcomes in low-resource settings.
 
 # Interests to show in About widget
 interests:
   - Health systems strengthening
   - Health economics
-  - Health Diplomacy
+  - Health diplomacy
+  - Machine learning
+  - Languages
 
 # Education to show in About widget
 education:
@@ -80,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Benson Kamau is an International Relations professional with an interest in Global Health. He currently works as a paramedic with the German Red Cross in southwestern Germany. He is also a student of Global Urban Health at the University of Freiburg. He has a passion for human rights and humanitarian law causes and is keen on sustainable financing models for healthcare systems within low-and middle-income countries. His work cuts across human rights, youth leadership in Kenya,social work, and emergency medical services.
+Benson Kamau is an International Relations professional with an interest in Global Health. He currently works as a paramedic with the German Red Cross in southwestern Germany. He is also a student of Global Urban Health at the University of Freiburg. He has a passion for human rights and humanitarian law causes and is keen on sustainable financing models for healthcare systems within low-and middle-income countries. His work cuts across human rights, youth leadership in Kenya, social work, and emergency medical services.
 {style="text-align: justify;"}
