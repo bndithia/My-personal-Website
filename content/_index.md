@@ -159,7 +159,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="album" >}}
+        {{< gallery = album >}}
     design:
       columns: '1'
   - block: collection
