@@ -60,6 +60,14 @@ sections:
           date_start: '2018-01-01'
           date_end: '2018-08-31'
           description: Perform competitive analysis, market reserach and product assessment.
+        - title: Data Clerk
+          company: Kenya National Commission on Human Rights
+          company_url: ''
+          company logo: org-sm
+          location: Nairobi, Kenya
+          date_start: '2017-09-01'
+          date_end:  '2017-12-22'
+          description: Management and maintenance of database
     design:
       columns: '2'
   - block: accomplishments
