@@ -1,15 +1,1 @@
-<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="58" width="58" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path stroke="#000" id="svg_2" d="m0.5,28l11.78572,-23.57143l31.42857,0l11.78571,23.57143l-11.78571,23.57143l-31.42857,0l-11.78572,-23.57143z" stroke-width="2" fill="#fff"/>
-  <text font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat Black'" font-size="30" id="svg_1" y="38.75" x="5.30469" stroke-width="0" stroke="#000" fill="#000000">GC</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="968" height="634" viewBox="0 0 968 634" version="1.1"><path d="M 390 135 L 390 227 298 227 L 206 227 206 307 L 206 387 298 387 L 390 387 390 479 L 390 571 470 571 L 550 571 550 479 L 550 387 642 387 L 734 387 734 307 L 734 227 642 227 L 550 227 550 135 L 550 43 470 43 L 390 43 390 135" stroke="none" fill="#dc0c14" fill-rule="evenodd"/><path d="M 0 317.001 L 0 634.002 484.250 633.751 L 968.500 633.500 968.752 316.750 L 969.003 0 484.502 0 L 0 0 0 317.001 M 0.494 317.500 C 0.494 491.850, 0.609 563.026, 0.750 475.669 C 0.891 388.312, 0.891 245.662, 0.750 158.669 C 0.609 71.676, 0.494 143.150, 0.494 317.500 M 390 135 L 390 227 298 227 L 206 227 206 307 L 206 387 298 387 L 390 387 390 479 L 390 571 470 571 L 550 571 550 479 L 550 387 642 387 L 734 387 734 307 L 734 227 642 227 L 550 227 550 135 L 550 43 470 43 L 390 43 390 135" stroke="none" fill="#fcfcfc" fill-rule="evenodd"/></svg>
