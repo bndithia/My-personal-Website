@@ -39,18 +39,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Paramedic
+          company: German Red Cross
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Friedrichshafen,Germany
+          date_start: '2019-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Pre-hospital emergency medical care
+              * Advanced Life Support
+              * Management and medical coordination in mass casualty incidents 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
