@@ -51,14 +51,14 @@ sections:
               * Pre-hospital emergency medical care
               * Advanced Life Support
               * Management and medical coordination in mass casualty incidents 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Sales Executive
+          company: AmoebaX Ltd
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Nairobi, Kenya
+          date_start: '2018-01-01'
+          date_end: '2018-08-31'
+          description: Perform competitive analysis, market reserach and product assessment.
     design:
       columns: '2'
   - block: accomplishments
