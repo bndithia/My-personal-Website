@@ -146,8 +146,8 @@ sections:
           tag: '*'
         - name: Machine Learning
           tag: Machine Learning
-        - name: Other
-          tag: Demo
+        - name: R
+          tag: R
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -159,7 +159,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery = "album" >}}
+        {{< gallery album = "demo" >}}
     design:
       columns: '1'
   - block: collection
