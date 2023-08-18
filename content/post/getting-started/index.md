@@ -41,9 +41,3 @@ categories:
   - BK
 ---
 
-```python
-import libr
-print('hello')
-```
-
-## Overview
