@@ -1,9 +1,9 @@
 ---
 title: No need to be a genius! Here's how to succeed.
-subtitle: Success is not limited to genetic connections with genius. By following certain principles of life, you can improve the quality of your work.
+subtitle: Success is not limited to genetic connections with genius. By following certain life principles, you can improve the quality of your work.
 
 # Summary for listings and search engines
-summary: Success is not limited to genetic connections with genius. By following certain principles of life, you can improve the quality of your work.
+summary: Success is not limited to genetic connections with genius. By following certain life principles, you can improve the quality of your work.
 
 # Link this post with a project
 projects: []
@@ -21,12 +21,7 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit:
-  focal_point: ''
-  placement: 2
-  preview_only: false
+# Place an image named `featured.jpg/png` in this page's folder 
 
 authors:
   - admin
