@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Benson Kamau is an International Relations professional with an interest in Global Health. He currently works as a paramedic with the German Red Cross in southwestern Germany. He is also a student of Global Urban Health at the University of Freiburg. He has a passion for human rights and humanitarian law causes and is keen on sustainable financing models for healthcare systems within low-and middle-income countries. His work cuts across human rights, youth leadership in Kenya, social work, and emergency medical services.
+Benson Kamau is an International Relations professional with an interest in Global Health, currently works as a paramedic with the German Red Cross in southwestern Germany. He is also a student of Global Urban Health at the University of Freiburg and has a passion for human rights and humanitarian law causes additionally ardent on sustainable financing models for healthcare systems within low-and middle-income countries. His work cuts across human rights, youth leadership in Kenya, social work, and emergency medical services.
 {style="text-align: justify;"}
